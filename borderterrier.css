@@ -54,3 +54,7 @@ h3 {
 p {
     line-height: 20px;
 }
+
+.bottom {
+    border-bottom: 2px solid #eae8e8;
+}
