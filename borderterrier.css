@@ -1,0 +1,13 @@
+body{
+    margin: 0px auto 0px auto;
+    max-width: 500px;
+}
+header {
+    text-align: center;
+    font-family: Georgia;
+    color: #a49379;
+    background-color: #f9f5d7;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 3px;
+}
