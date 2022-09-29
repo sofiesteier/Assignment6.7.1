@@ -17,3 +17,15 @@ header {
 li {
     display: inline-block;
 }
+
+a {
+    color: black;
+    padding: 10px;
+    margin-top: -10px;
+    text-decoration: underline dotted;
+}
+
+.links {
+    text-align: center;
+    border-bottom: 2px solid #eae8e8;
+}
