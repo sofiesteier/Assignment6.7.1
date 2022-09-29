@@ -1,11 +1,11 @@
 body{
     margin: 0px auto 0px auto;
-    max-width: 500px;
+    max-width: 600px;
+    font-family: Georgia;
 }
 
 header {
     text-align: center;
-    font-family: Georgia;
     color: #a49379;
     background-color: #f9f5d7;
     padding: 20px;
@@ -29,3 +29,21 @@ a {
     text-align: center;
     border-bottom: 2px solid #eae8e8;
 }
+
+h2 {
+    text-align: center;
+}
+
+.bild {
+    background-image: url("borderterrier.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 320px;
+    height: 320px;
+    margin: 0 auto 0 auto;
+    border-radius: 50%;
+    border: 1px solid black;
+    border-bottom: 3px solid black;
+}
+
